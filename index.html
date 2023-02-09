@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento em portugues</title>
+<style>
+    body {
+        background-color:midnightblue;
+    }
+        h1 {
+        color:honeydew;
+        }
+        h2 {
+        color: honeydew;
+        }
+        h3 {
+        color: honeydew;
+        }
+        h4 {
+            color: honeydew;
+        }
+</style>
+</head>
+<body>
+    <h1><i>Quem Sou Eu?</i> </h1>
+        <p style="color:antiquewhite">Me chamo <strong style="color:ghostwhite">Tharles Pereira Noleto Junior</strong>, tenho 18 anos e atualmente estou cursando Sistemas Para Internet no IFTO</p>
+        <p style="color:antiquewhite">Tenho gostos variados, gosto de coisas complexas de aparencia simples, sou uma pessoa estranhamente específica, tenho um índole certamente questionável, sou um pouquinho tímido e sou do tipo preguiçoso, mas, quando me é do interesse eu consigo me esforçar com algo</p>
+    
+    <h2><i>Meus Hobbies</i></h2>
+        <p style="color:antiquewhite">Jogos</p>
+        <p style="color:antiquewhite">Calistenia</p>
+        <p style="color:antiquewhite">Mangás</p>
+
+    
+    <h3><i>Meus Projetos</i></h3>
+        <p style="color:antiquewhite">Não possuo nenhum projeto de relevância para estar aqui no momento</p>
+    
+    <h4><i>Contato</i></h4>
+        <p style="color:antiquewhite">Email: <strong style="color:floralwhite">jjuniornoleto2013@gmail.com</strong></p>
+        <p style="color:antiquewhite">Instagram: <strong style="color:floralwhite">@charlinhoagiota</strong></p>        
+        <p></p>
+    </body>
+</html>
